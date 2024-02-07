@@ -1,0 +1,17 @@
+sentence-transformers
+uvicorn
+ctransformers
+ipykernel
+langchain
+python-box
+streamlit
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==3.2.0
+click==8.1.6
+decorator==5.1.1
+future==0.18.3
+geocoder==1.38.1
+idna==3.4
+psycopg2-binary==2.9.7
+
